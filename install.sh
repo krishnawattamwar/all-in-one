@@ -23,7 +23,7 @@ sudo apt-get update
 
 #Apache, Php, MySQL and required packages installation
 
-sudo apt-get -y install apache2 php5.6 php7.2-cli php7.2-curl php7.2-mbstring php7.2-xml php7.2-zip php7.2-mysql php7.2-gd mysql-client
+sudo apt-get -y install apache2 php5.6 php7.2-cli php7.2-curl php7.2-mbstring php7.2-xml php7.2-zip php7.2-mysql php7.2-gd mysql-client git
 
 #The following commands set the MySQL root password to pass@123 when you install the mysql-server package.
 

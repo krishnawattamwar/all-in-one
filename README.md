@@ -1,4 +1,4 @@
-(LAMP, skype, teamviewer, google-chrome)
+(LAMP, skype, teamviewer, google-chrome, git)
 
 
 Give the execution right to it.
